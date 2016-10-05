@@ -51,6 +51,11 @@ A Simple Optimal Growth Model の
 
 * ついでに Exercises もやってみましょう．
 
+  Solution notebook にある `PlotlyJS` を使って nbviewer で図が表示されない場合は，
+  `using PlotlyJS` を独立した別のセルで実行すると表示されるようです
+  (GitHub ではそもそも表示されないみたい)．
+  (参考 [quantecon_nyu_2016 Issue #20](https://github.com/jstac/quantecon_nyu_2016/issues/20))
+
 * Julia v0.5 を使っていて `main` 関数をそのまま使った人は
 
   ```jl
