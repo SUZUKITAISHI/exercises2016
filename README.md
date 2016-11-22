@@ -6,3 +6,4 @@
 * [課題3](ex03): 課題2で書いたコードに多対一マッチングを処理する機能を追加する
 * [課題4](ex04): Kandori-Mailath-Rob (KMR) の確率進化モデルのシミュレーションをしてみる
 * [課題5](ex05): 課題1で書いた線形補間のコードを fitted value iteration で使ってみる
+* [課題6](ex06): `BasisMatrices` を使って教科書 Chapter 7 の図を描いてみる
